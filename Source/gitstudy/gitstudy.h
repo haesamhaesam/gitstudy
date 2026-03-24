@@ -23,3 +23,4 @@ void AMyActor::Tick(float DeltaTime)
 	UE_LOG(LogTemp, Warning, TEXT("AMyActor is ticking!"));
 }
 
+//예아~
